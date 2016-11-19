@@ -1,0 +1,31 @@
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Steam - a minimal theme for Hugo"
+theme = "unattended"
+paginate = 10
+
+[params]
+
+	title = "Steam"
+	subtitle = "a minimal theme for ~~Ghost~~ Hugo"
+	copyright = "Released under the MIT license."
+
+	# You can choose between green, orange, red and blue.
+	themeColor = "blue"
+
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a little information about you and your website.
+	name = "Tyler Wengerd"
+	bio = "The most terrifying move you've ever seen"
+	description = "Your description of the blog"
+	location = "" # optional
+	twitter = "" # optional
+	github = "" # optional
+ 	gitlab = "" # optional
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
