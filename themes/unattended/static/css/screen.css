@@ -1,13 +1,13 @@
-@import url('//fonts.googleapis.com/css?family=Source+Sans+Pro|Faster+One|Lato:900|Crushed|Source+Code+Pro&subset=latin,latin-ext,cyrillic-ext,cyrillic');
+@import url('//fonts.googleapis.com/css?family=Source+Sans+Pro|Faster+One|Lato:900|Crushed|Fira+Mono&subset=latin,latin-ext,cyrillic-ext,cyrillic');
 @import url('//netdna.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.css');
 
 /* === Core Styles === */
 body {
   background-color: #ffffff;
-  color: #596364; /* darker color */
+  color: #000000; /* darker color */
   font-size: 15px;
   font-weight: 100;
-  line-height: 1.6em;
+  line-height: 1em;
   margin: 0;
   padding: 0;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -28,14 +28,14 @@ dd {
 }
 h1,
 .post-meta {
-  text-align: left;
+  text-align: center;
 }
 a,
 a:visited {
   /*color: #33cc99;*/
   text-decoration: none;
-  transition: color ease 0.7s;
-  -webkit-transition: color ease 0.7s;
+  transition: color ease 0.1s;
+  -webkit-transition: color ease 0.1s;
 }
 a:focus,
 a:hover {
@@ -45,9 +45,9 @@ p,
 li,
 dt,
 dd {
-  font-size: 17px;
+  font-size: 20px;
   font-weight: 100;
-  line-height: 28px;
+  line-height: 30px;
 }
 dt {
   font-weight: 400;
@@ -95,9 +95,9 @@ kbd {
 h1 {
   color: #151515;
   font-family: "Lato", Arial, sans-serif;
-  font-size: 36px;
+  font-size: 3.5em;
   font-weight: 400;
-  line-height: 42px;
+  line-height: 0.9em;
   margin: 0;
   padding: 0;
 }
@@ -107,7 +107,7 @@ article.preview,
 a.archive-link,
 .article-nav {
   margin: 20px auto;
-  max-width: 600px;
+  max-width: 1200px;
   width: 90%;
 }
 #site-head img {
@@ -144,17 +144,17 @@ h2.blog-description {
 }
 h1.blog-title {
   font-family: "Faster One", sans-serif;
-  font-size: 50px;
-  line-height: 52px;
-  margin-top: 80px;
-  margin-bottom: 5px;
+  font-size: 27px;
+  line-height: 1em;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding: 0;
 }
 h1.blog-subtitle {
-  font-size: 26px;
+  font-size: 16px;
   line-height: 32px;
-  margin-top: -8px;
-  margin-bottom: 85px;
+  margin-top: 0px;
+  margin-bottom: 10px;
   margin-left: 1px;
   padding: 0;
 }
@@ -204,8 +204,8 @@ section.author h4 {
 }
 section.author p.attr,
 section.share p.info {
-  font-size: 16px;
-  line-height: 20px;
+  font-size: 0.9em;
+  line-height: 2em;
   text-transform: uppercase;
   font-family: "Crushed", Arial, sans-serif;
 }
@@ -214,58 +214,58 @@ section.share p.info.prompt {
   position: relative;
 }
 section.author p.attr {
-  margin-bottom: 2px;
+  margin-bottom: 0px;
+  margin-top: -10px;
 }
 section.share p.info {
   display: inline-block;
 }
 section.author p.bio {
-  font-size: 14px;
-  margin-left: 99px;
-  line-height: 1.2em;
+  font-size: 0.7em;
+  margin-left: 82px;
+  line-height: 0.8em;
 }
 blockquote {
   font-family: "Crushed", Arial, sans-serif;
-  font-size: 1.6em;
+  font-size: 0.9em;
   font-weight: 300;
   line-height: 1.2em;
   font-style: italic;
   text-transform: uppercase;
   border-left: 0.4em solid rgba(0, 0, 0, 0.05);
-  margin-left: 1em;
-  padding-right: 1.5em;
+  margin-left: 0.5em;
+  padding-right: 1em;
   padding-left: 1em;
 }
 .post-meta {
   color: #95a5a6;
   font-family: "Crushed", Arial, sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
-  margin-top: 0.3em;
+  margin-top: 0.25em;
+  margin-bottom: 1.2em;
   text-transform: uppercase;
 }
 .tags {
   font-size: 16px;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.6em;
 }
 div.authorimage {
-  width: 80px;
-  height: 80px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
   -webkit-background-size: cover !important;
   background-size: cover !important;
   background-position: center center !important;
-  margin-right: 17px;
+  margin-right: 10px;
   float: left;
-}
-h1.post-title {
-  margin-top: 35px;
 }
 h1.post-title a,
 h1.blog-title a {
   color: #151515;
-  transition: color ease 0.7s;
-  -webkit-transition: color ease 0.7s;
+  text-transform: uppercase;
+  transition: color ease 0.1s;
+  -webkit-transition: color ease 0.1s;
 }
 h1.post-title a:focus,
 h1.post-title a:hover,
@@ -305,7 +305,7 @@ footer section {
   font-weight: 300;
   font-size: 18px;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 1200px;
   text-transform: uppercase;
   width: 90%;
 }
@@ -321,7 +321,7 @@ nav {
   margin-bottom: 2em;
   text-align: center;
   margin: 20px auto 2em auto;
-  max-width: 600px;
+  max-width: 1200px;
 }
 nav ul {
   list-style: none;
@@ -334,7 +334,7 @@ nav ul {
 nav ul li {
   display: inline-block;
   font-family: "Crushed", Arial, sans-serif;
-  font-size: 18px;
+  font-size: 27px;
   font-weight: 300;
   margin: 0;
   padding: 0 .5em;
@@ -346,18 +346,21 @@ nav ul li a {
   padding: .5em 0;
 }
 nav.menu {
-  margin-bottom: 0.5em;
+  margin-bottom: 2.5em;
 }
 nav.menu li {
   margin: 0 .5em;
   padding: 0;
 }
 nav.menu li:last-child {
-  margin: 0;
+  /* margin: 0; */
 }
 @media only screen and (min-width: 320px) and (max-width: 662px) {
   nav.menu li {
-    display: block;
+    font-size: 1.25em;
+  }
+  h1 {
+    font-size: 2em;
   }
 }
 nav.pagination li:first-child {
@@ -385,12 +388,12 @@ a.archive-link {
 }
 .pagination {
   position: relative;
-  width: 100%;
-  max-width: 600px;
+  width: 90%;
+  max-width: 1200px;
   font-family: "Crushed", Arial, sans-serif;
   text-transform: uppercase;
   font-size: 20px;
-  color: #596364;
+  color: #7f8c8d;
   text-align: center;
   padding: 0.5em 0;
 }
@@ -403,8 +406,8 @@ a.archive-link {
   display: inline-block;
   padding: 0;
   text-decoration: none;
-  transition: color ease 0.7s;
-  -webkit-transition: color ease 0.7s;
+  transition: color ease 0.1s;
+  -webkit-transition: color ease 0.1s;
 }
 .older-posts {
   right: 0;
@@ -429,7 +432,7 @@ a.archive-link {
   border-collapse: collapse !important;
 }
 .gist .gist-file {
- font-family: "Source Code Pro", Courier, monospace;
+ font-family: "Fira Mono", Courier, monospace;
  border: 1px solid rgba(0, 0, 0, 0.05) !important;
 }
 .gist .gist-file .gist-meta {
@@ -527,6 +530,9 @@ table tfoot {
   nav li {
     width: auto;
   }
+  nav.menu li{
+    font-size: 0.8em
+  }
   .older-posts,
   .newer-posts {
     position: static;
@@ -544,7 +550,12 @@ table tfoot {
 
 
 /* === Custom Overrides === */
-section.post-content h2,
+section.post-content h2 {
+  font-family: "Crushed", Arial, sans-serif;
+  margin-top: 2em;
+  text-transform: uppercase;
+  font-weight: 300;
+}
 section.post-content h3,
 section.post-content h4 {
   margin-top: 33px;
@@ -562,7 +573,7 @@ a, a:active, a:focus {
 }
 
 pre {
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 .post-content pre code {
@@ -574,12 +585,11 @@ pre {
 
 blockquote p {
   font-family: "Source Sans Pro", Arial, sans-serif;
-  font-size: 0.65em;
+  font-size: 1.6em;
   font-weight: 300;
-  line-height: 1.55em;
+  line-height: 1.2em;
   font-style: italic;
-  text-transform: none;
-  margin-bottom: 30px;
+  text-transform: uppercase;
 }
 
 section.post-content ul {
@@ -595,7 +605,7 @@ section.post-content li {
 }
 
 p.backtotop {
-  font-size: 16px;
+  font-size: 1em;
   line-height: 20px;
   text-transform: uppercase;
   font-family: "Crushed", Arial, sans-serif;
@@ -604,10 +614,15 @@ p.backtotop {
   text-align: left;
   float: left;
 }
+p.caption {
+  text-align: center;
+  font-size: 1.1em;
+  font-style: italic;
+}
 
 a.excerptlink,
 a.backtotoptext {
-  color: #596364;
+  color: #636e6f;
   text-decoration: none;
 }
 
@@ -638,7 +653,7 @@ hr {
 }
 
 .site-footer {
-  color: #899596;
+  color: #636e6f;
 }
 
 section.footer-social {
@@ -660,7 +675,7 @@ section.bloginfo {
 }
 
 section.author .meta {
-  font-size: 12px;
+  font-size: 0.6em;
   line-height: 19px;
   font-family: "Lato", Arial, sans-serif;
   color: #bbbbbb;
@@ -668,16 +683,16 @@ section.author .meta {
   margin-left: 108px;
 }
 section.author .meta a {
-  font-size: 12px;
+  font-size: 0.6em;
   color: #bbbbbb;
 }
 
 h1.posts-tagged {
   margin: -17px auto -17px;
   text-align: center;
-  max-width: 600px;
+  max-width: 1200px;
   font-family: "Crushed", Arial, sans-serif;
-  color: #596364;
+  color: #636e6f;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 16px;
