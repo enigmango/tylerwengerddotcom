@@ -8,7 +8,7 @@ paginate = 10
 
 	title = "Steam"
 	subtitle = "a minimal theme for ~~Ghost~~ Hugo"
-	copyright = "Released under the MIT license."
+	copyright = '<br>Unattended Theme under <a href="https://opensource.org/licenses/MIT">MIT license</a>.<br>Content under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>.'
 
 	# You can choose between green, orange, red and blue.
 	themeColor = "blue"
@@ -17,7 +17,7 @@ paginate = 10
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a little information about you and your website.
 	name = "Tyler Wengerd"
-	bio = "The most terrifying move you've ever seen"
+	bio = "The most terrifying move possible"
 	description = "Your description of the blog"
 	location = "" # optional
 	twitter = "" # optional
