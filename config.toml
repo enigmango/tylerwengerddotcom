@@ -1,12 +1,12 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Steam - a minimal theme for Hugo"
+title = "I've been left unattended: Tyler's blog"
 theme = "unattended"
 paginate = 7
 
 [params]
 
-	title = "Steam"
+	title = "I've been left unattended"
 	# subtitle = "a minimal theme for ~~Ghost~~ Hugo"
 	copyright = '<br>Unattended Theme under <a href="https://opensource.org/licenses/MIT">MIT license</a>.<br>Content under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>.'
 
@@ -17,8 +17,8 @@ paginate = 7
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a little information about you and your website.
 	name = "Tyler Wengerd"
-	bio = "The most terrifying move possible"
-	description = "Your description of the blog"
+	bio = "You put that attitude away right now"
+	description = "Oh yikes"
 	location = "" # optional
 	twitter = "" # optional
 	github = "" # optional
