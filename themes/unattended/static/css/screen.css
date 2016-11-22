@@ -56,8 +56,8 @@ li {
   padding-left: 0.8em;
 }
 pre {
-  font-family: Menlo, "Source Code Pro", Courier, monospace;
-  color: #596364;
+  font-family: "Fira Mono", Courier, monospace;
+  color: #636e6f;
   font-size: 1em;
   line-height: 1.2em;
   padding: 1em;
@@ -70,9 +70,9 @@ pre {
   background-color: #f7f7f7;
 }
 code {
-  font-family: Menlo, "Source Code Pro", Courier, monospace;
+  font-family: "Fira Mono", Courier, monospace;
   font-size: 0.85em;
-  color: #596364;
+  color: #636e6f;
   background-color: #f7f7f7;
   padding: 2px 4px;
   line-height: 1.2em;
