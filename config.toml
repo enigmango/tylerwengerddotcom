@@ -2,7 +2,7 @@ baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Steam - a minimal theme for Hugo"
 theme = "unattended"
-paginate = 10
+paginate = 7
 
 [params]
 

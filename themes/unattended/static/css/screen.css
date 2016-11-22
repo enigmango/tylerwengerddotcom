@@ -187,15 +187,11 @@ section.share {
   padding-bottom: 1em;
   text-align: right;
 }
-section.author h4 {
-  margin: 0;
-  padding-top: 4px;
-  padding-left: 99px;
-}
+section.author h4,
 section.author p,
 section.share p {
   padding: 0;
-  margin: 0;
+  margin: 0px;
 }
 section.author h4 {
   font-family: "Source Sans Pro", Arial, sans-serif;
@@ -209,13 +205,13 @@ section.share p.info {
   text-transform: uppercase;
   font-family: "Crushed", Arial, sans-serif;
 }
-section.share p.info.prompt {
-  top: -5px;
-  position: relative;
-}
 section.author p.attr {
   margin-bottom: 0px;
   margin-top: -10px;
+}
+section.share p.info.prompt {
+  top: -5px;
+  position: relative;
 }
 section.share p.info {
   display: inline-block;
@@ -308,6 +304,7 @@ footer section {
   max-width: 1200px;
   text-transform: uppercase;
   width: 90%;
+  color: #636e6f;
 }
 footer.post-footer {
   background: none;
@@ -600,7 +597,7 @@ section.post-content li {
 }
 
 .tags {
-  text-align: right;
+  text-align: center;
   padding-right: 6px;
 }
 
