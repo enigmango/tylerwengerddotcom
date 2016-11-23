@@ -1,4 +1,4 @@
-baseurl = "http://tylerwengerd.s3-website-us-east-1.amazonaws.com/"
+baseurl = "https://hugo.tylerwengerd.com"
 languageCode = "en-us"
 title = "I've been left unattended: Tyler's blog"
 theme = "unattended"
