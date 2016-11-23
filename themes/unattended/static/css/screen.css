@@ -257,6 +257,7 @@ div.authorimage {
   margin-right: 10px;
   float: left;
 }
+h1.post-title,
 h1.post-title a,
 h1.blog-title a {
   color: #151515;
