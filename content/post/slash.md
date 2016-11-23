@@ -20,7 +20,7 @@ Regardless of their construction, folks always slipped into these hip new cozy c
 
 Because of all this work, putting on a sweater required a substantially fit core, which led people to refer to this set of actions as "obliquing". "Longissimusing" and "multifiding" were also in the running for a while. Over time, the shape one's arms made during this whole process became known as the oblique.
 
-{<1>}![CAN YOU FEEL THE / IN YOU](http://static.tylerwengerd.com/images/stroke-gallego.jpg)
+![CAN YOU FEEL THE / IN YOU](/img/stroke-gallego.jpg)
 <p class="caption"> Demonstrated here by Sr. Gallego. </p>
 
 No one is sure how we got all these other names (except slak, that one's obvious, thanks Wojkowice), but well, here we are and it's so nice and warm, come on in. Have a cider or something and let's talk about the stars.
