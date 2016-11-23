@@ -25,24 +25,28 @@ Yeah, you're cheese now. But *which cheese* are you? There are SO MANY. If only 
 Fortunately, we can figure out what kind of cheese you are by forcing you to compare your personality traits with increasingly whimsical cheese textures from a laughably small sample of cheeses.
 
 ## 1. Cheddar
-<img src="/content/images/2016/04/cheddar-small.jpg" alt="Some Cheddar and crackers" title="Aw yeah Cheddar">
+<img src="/img/cheese/cheddar.jpg" alt="Some Cheddar and crackers" title="Aw yeah Cheddar">
 
 Cheddar is a **compact** cheese. When you walk around in a hoodie, do you mainly keep your hands in the pockets of the hoodie, or do you keep them elsewhere? If you're a hoodie-pocket-dweller, you're a Cheddar. Also, in this world where you've turned to cheese, there's a compact car called the Mazda Cheddar because it's hilarious and you were the only thing holding it back in your old world.
 
 ## 2. Brie
-<img src="/content/images/2016/04/brie-small.jpg" alt="Brie on a wood surface" title="Mmm mmm Brie">
+<img src="/img/cheese/brie.jpg" alt="Brie on a wood surface" title="Mmm mmm Brie">
+
 Brie is a **runny** cheese.  Given time, this cheese will only increase in runniness. We're talking straight up milk, with absolutely no regrets. If you're into that, you're Brie. If you're not sure, that's perfectly natural and I recommend moving on.
 
 ## 3. Danbo
-<img src="/content/images/2016/04/danbo-small.jpg" alt="Danbo and crackers" title="Yum, Danbo">
+<img src="/img/cheese/danbo.jpg" alt="Danbo and crackers" title="Yum, Danbo">
+
 Danbo is a **springy** cheese. Maybe you're thinking this is the cheese for resilient, optimistic types. Wrong-o! This is the cheese for people who say "wrong-o"! If you've added "-o!" to other words, you're also Danbo (unless those words were contractions, you monster).
 
 ## 4. Neufchâtel
-<img src="/content/images/2016/04/neuf-small.jpg" alt="Neufchâtel on a wood surface with a wood utensil" title="Woohoo, Neufchâtel | Attribution: Mumumío [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons">
+<img src="/img/cheese/neuf.jpg" alt="Neufchâtel on a wood surface with a wood utensil" title="Woohoo, Neufchâtel | Attribution: Mumumío [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons">
+
 Neufchâtel is a **grainy** cheese, but don't worry about that. As it's often sold in heart shapes, you're almost certainly Neufchâtel if you sculpt your food into a heart before eating it.
 
 ## 5. Paneer
-<img src="/content/images/2016/04/paneer-small.jpg" alt="Stacked Paneer" title="Sweeeeet, Paneer | Attribution: By fugzu (Flickr: paneer) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons">
+<img src="/img/cheese/paneer.jpg" alt="Stacked Paneer" title="Sweeeeet, Paneer | Attribution: By fugzu (Flickr: paneer) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons">
+
 Paneer is a **chewy** cheese.
 *Ummmmmmmmmmmmmmm*  
 Never mind, you're not Paneer.
