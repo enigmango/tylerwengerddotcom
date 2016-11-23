@@ -18,7 +18,7 @@ paginate = 7
 	# feel free to add a little information about you and your website.
 	name = "Tyler Wengerd"
 	bio = "You put that attitude away right now"
-	description = "Oh yikes"
+	description = "I write fiction about punctuation and other things."
 	location = "" # optional
 	twitter = "" # optional
 	github = "" # optional
