@@ -1,0 +1,13 @@
+<section class="footer-description">
+  <div id="kicker"></div>
+  <script>
+    var kickerArray = {{ $.Site.Params.kickers }}
+    // get range of indexes to choose from
+    var kickerIndex = kickerArray.length - 1;
+
+    // choose between 1 and last index in array
+    var randomIndex = Math.floor(Math.random() * kickerIndex) + 1
+
+    document.querySelector('#kicker').innerHTML = kickerArray[randomIndex];
+  </script>
+</section>

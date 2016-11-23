@@ -1,5 +1,11 @@
-# Steam
+# Unattended
 
+## Unattended Status
+Unattended is a customized theme based on the Steam theme by [DigitalCraftsman](//github.com/digitalcraftsman/). Unattended is licenced under the MIT license so if you're reading this, feel free to use the theme however you like, but I haven't yet put the effort into making this a proper theme.
+
+The rest of the readme below is from the Steam Hugo theme.
+
+## About Steam
 Steam is a minimal and customizable theme for bloggers and was developed by [Tommaso Barbato](//github.com/epistrephein). He created it as a slightly adapted version of the [Vapor](//github.com/sethlilly/Vapor) Ghost theme by [Seth Lilly](//github.com/sethlilly). Noteworthy features of this Hugo port are the integration of a comment-system either powered by Disqus or Google Plus, the customizable appearance by changing theme colors, support for RSS feeds, syntax highlighting for source code and the optional use of Google Analytics. Enough to read. Let's take the first steps to get started.
 
 ![Screenshot](https://raw.githubusercontent.com/digitalcraftsman/hugo-steam-theme/dev/images/screenshot.png)
@@ -37,9 +43,9 @@ If no document contains menu = "main" in the frontmatter than the navigation wil
 
 ## Customize theme colors
 
-This theme features four different theme colors (green as default, blue, red and orange) that change the appearance of you Hugo site slightly. Just set the `themeColor` variable to the color you like.
+This theme features four different theme colors (green as default, blue, red, purple, and orange) that change the appearance of you Hugo site slightly. Just set the `themeColor` variable to the color you like.
 
-Furthermore you can create your own theme. Under [`layouts/partials/themes`](//github.com/digitalcraftsman/hugo-steam-theme/tree/dev/layouts/partials/themes) you'll find a stylesheet template called [`custom-theme.html`](//github.com/digitalcraftsman/hugo-steam-theme/blob/dev/layouts/partials/themes/custom-theme.html). Customize the colors as you like and save the new theme with the schema `<myNewColor>-theme.html` within the same folder. As you can see, the color is the prefix of the stylesheet template. Therefore you just need to set `themeColor` in the [`configs`](//github.com/digitalcraftsman/hugo-steam-theme/blob/dev/exampleSite/config.toml)) to that self-defined prefix. 
+Furthermore you can create your own theme. Under [`layouts/partials/themes`](//github.com/digitalcraftsman/hugo-steam-theme/tree/dev/layouts/partials/themes) you'll find a stylesheet template called [`custom-theme.html`](//github.com/digitalcraftsman/hugo-steam-theme/blob/dev/layouts/partials/themes/custom-theme.html). Customize the colors as you like and save the new theme with the schema `<myNewColor>-theme.html` within the same folder. As you can see, the color is the prefix of the stylesheet template. Therefore you just need to set `themeColor` in the [`configs`](//github.com/digitalcraftsman/hugo-steam-theme/blob/dev/exampleSite/config.toml)) to that self-defined prefix.
 
 ## Comments
 
@@ -47,7 +53,7 @@ This theme features a comment system that's either powered by Disqus or Google P
 
 ## Nearly finished
 
-In order to see your site in action, run Hugo's built-in local server. 
+In order to see your site in action, run Hugo's built-in local server.
 
     $ hugo server
 
@@ -66,7 +72,7 @@ This theme is released under the MIT license. For more information read the [Lic
 
 ## Annotations
 
-Thanks to 
+Thanks to
 
 - [Steve Francia](//github.com/spf13) for creating Hugo and the awesome community around the project.
 - [Seth Lilly](//github.com/sethlilly)

@@ -7,17 +7,73 @@
   </url>
   
   <url>
-    <loc>https://example.org/about/about/</loc>
+    <loc>https://example.org/about/</loc>
     <lastmod>2016-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/cheese/</loc>
+    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/eavesdroppers/</loc>
+    <lastmod>2015-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/comma/</loc>
+    <lastmod>2015-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/slash/</loc>
+    <lastmod>2014-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/apostrophe/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/period/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/caret/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/semicolon/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/eroteme/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/bang/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/hyphen/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/ampersand/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.org/post/asterisk/</loc>
-    <lastmod>2016-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/post/first/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

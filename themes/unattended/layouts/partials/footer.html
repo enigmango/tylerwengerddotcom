@@ -1,5 +1,6 @@
 <footer class="site-footer">
 	<div class="inner">
+		{{ partial "kicker" . }}
 		<section class="footer-social">
 			{{ with .Site.Params.twitter }}
 		    <a href="//twitter.com/{{ . }}" target="_blank" title="Twitter"><i class="fa fa-2x fa-fw fa-twitter"></i> <span class="hidden">Twitter</span></a>&nbsp;
@@ -10,9 +11,7 @@
 		    {{ with .Site.Params.gitlab }}
 		    <a href="//gitlab.com/u/{{ . }}" target="_blank" title="GitLab"><i class="fa fa-2x fa-fw fa-gitlab"></i> <span class="hidden">GitLab</span></a>&nbsp;
 		    {{ end }}
-		    <a href="{{ .RSSLink }}" target="_blank" title="RSS"><i class="fa fa-2x fa-fw fa-rss"></i> <span class="hidden">RSS</span></a>
 		</section>
-
-		<section class="copyright">&copy; {{.Now.Format "2006"}} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.name }}</a>. {{ .Site.Params.copyright | markdownify }}</section>
+		<section class="copyright">&copy; {{.Now.Format "2006"}} <a href="{{ .Site.BaseURL }}about">{{ .Site.Params.name }}</a>. {{ .Site.Params.copyright | markdownify }}</section>
 	</div>
 </footer>

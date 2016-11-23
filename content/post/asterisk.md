@@ -1,9 +1,9 @@
 +++
-date        = "2016-11-19"
-title       = "THE ASTERISK"
-description = "Blah blah blah"
-tags        = [ "Development", "Go", "profiling" ]
-topics      = [ "Development", "Go" ]
+date        = "2014-01-01"
+title       = "The Asterisk"
+description = "The asterisk is an elusive being in the world of punctuation."
+tags        = [ "punctuation" ]
+topics      = [ "punctuation" ]
 +++
 
 The asterisk is an elusive being in the world of punctuation.
@@ -24,11 +24,11 @@ mainly because they didn't have any punctuation for that sort of thing at the ti
 and this seemed good enough.
 Giving the critters eyes seemed a little creepy, though, so they just went with five or six points, or whatever.
 
-The term "asterisk" itself was coined because there wasn't anything seperating asterion and astern in the dictionary yet,
+The term "asterisk" itself was coined because there wasn't anything separating asterion and astern in the dictionary yet,
 and people in med school simply DETESTED being associated in any way with those vulgar sailing folks.
 
 \* 10²+ 11² + 12² = 13² + 14²
 
-<sub><em>This article is part of a series on **punctuation**. It's pretty much all made up.
+<sub><em>This article is part of a series on [**punctuation**](/tags/punctuation). It's pretty much all made up.
 Don't underestimate the prowess of a panther, though.
 You've been warned.</em></sub>
