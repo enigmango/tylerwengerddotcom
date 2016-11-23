@@ -1,7 +1,8 @@
-deploy:
+production:
   image: python:latest
+  type: deploy
   script:
-  - echo "hello world"
+  - cat ./s3_test/test.txt
   #- pip install awscli
   #- aws s3 cp ./public/ s3://$S3_BUCKET_NAME/ --recursive
   # only:
