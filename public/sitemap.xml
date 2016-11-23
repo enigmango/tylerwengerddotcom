@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/</loc>
     <lastmod>2016-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/about/</loc>
     <lastmod>2016-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/cheese/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/cheese/</loc>
     <lastmod>2016-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/eavesdroppers/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/eavesdroppers/</loc>
     <lastmod>2015-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/comma/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/comma/</loc>
     <lastmod>2015-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/slash/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/slash/</loc>
     <lastmod>2014-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/apostrophe/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/apostrophe/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/period/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/period/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/caret/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/caret/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/semicolon/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/semicolon/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/eroteme/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/eroteme/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/bang/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/bang/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/hyphen/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/hyphen/</loc>
     <lastmod>2014-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/ampersand/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/ampersand/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/asterisk/</loc>
+    <loc>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/asterisk/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
