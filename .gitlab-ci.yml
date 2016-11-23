@@ -2,9 +2,10 @@ production:
   image: python:latest
   type: deploy
   script:
-  - pip install awscli
-  - aws s3 cp ./public/ s3://$S3_BUCKET_NAME/ --recursive
+    - pwd
+    - pip install awscli
+    - aws s3 cp $CI_PROJECT_DIR/s3_test/ s3://$S3_BUCKET_NAME/ --recursive
   tags:
-  - shared
+    - shared
   # only:
   # - master
