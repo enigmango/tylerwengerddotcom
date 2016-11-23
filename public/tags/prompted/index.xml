@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prompted on I&#39;ve been left unattended: Tyler&#39;s blog</title>
-    <link>https://example.org/tags/prompted/</link>
+    <link>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/tags/prompted/</link>
     <description>Recent content in Prompted on I&#39;ve been left unattended: Tyler&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/prompted/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tylerwengerd.s3-website-us-east-1.amazonaws.com/tags/prompted/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Which Cheese Are You?</title>
-      <link>https://example.org/post/cheese/</link>
+      <link>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/cheese/</link>
       <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/cheese/</guid>
+      <guid>http://tylerwengerd.s3-website-us-east-1.amazonaws.com/post/cheese/</guid>
       <description>
 
 &lt;p&gt;Something&amp;rsquo;s different.&lt;/p&gt;
@@ -37,31 +37,31 @@
 
 &lt;h2 id=&#34;1-cheddar&#34;&gt;1. Cheddar&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://example.org/img/cheese/cheddar.jpg&#34; alt=&#34;Some Cheddar and crackers&#34; title=&#34;Aw yeah Cheddar&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://tylerwengerd.s3-website-us-east-1.amazonaws.com/img/cheese/cheddar.jpg&#34; alt=&#34;Some Cheddar and crackers&#34; title=&#34;Aw yeah Cheddar&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Cheddar is a &lt;strong&gt;compact&lt;/strong&gt; cheese. When you walk around in a hoodie, do you mainly keep your hands in the pockets of the hoodie, or do you keep them elsewhere? If you&amp;rsquo;re a hoodie-pocket-dweller, you&amp;rsquo;re a Cheddar. Also, in this world where you&amp;rsquo;ve turned to cheese, there&amp;rsquo;s a compact car called the Mazda Cheddar because it&amp;rsquo;s hilarious and you were the only thing holding it back in your old world.&lt;/p&gt;
 
 &lt;h2 id=&#34;2-brie&#34;&gt;2. Brie&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://example.org/img/cheese/brie.jpg&#34; alt=&#34;Brie on a wood surface&#34; title=&#34;Mmm mmm Brie&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://tylerwengerd.s3-website-us-east-1.amazonaws.com/img/cheese/brie.jpg&#34; alt=&#34;Brie on a wood surface&#34; title=&#34;Mmm mmm Brie&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Brie is a &lt;strong&gt;runny&lt;/strong&gt; cheese.  Given time, this cheese will only increase in runniness. We&amp;rsquo;re talking straight up milk, with absolutely no regrets. If you&amp;rsquo;re into that, you&amp;rsquo;re Brie. If you&amp;rsquo;re not sure, that&amp;rsquo;s perfectly natural and I recommend moving on.&lt;/p&gt;
 
 &lt;h2 id=&#34;3-danbo&#34;&gt;3. Danbo&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://example.org/img/cheese/danbo.jpg&#34; alt=&#34;Danbo and crackers&#34; title=&#34;Yum, Danbo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://tylerwengerd.s3-website-us-east-1.amazonaws.com/img/cheese/danbo.jpg&#34; alt=&#34;Danbo and crackers&#34; title=&#34;Yum, Danbo&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Danbo is a &lt;strong&gt;springy&lt;/strong&gt; cheese. Maybe you&amp;rsquo;re thinking this is the cheese for resilient, optimistic types. Wrong-o! This is the cheese for people who say &amp;ldquo;wrong-o&amp;rdquo;! If you&amp;rsquo;ve added &amp;ldquo;-o!&amp;rdquo; to other words, you&amp;rsquo;re also Danbo (unless those words were contractions, you monster).&lt;/p&gt;
 
 &lt;h2 id=&#34;4-neufchâtel&#34;&gt;4. Neufchâtel&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://example.org/img/cheese/neuf.jpg&#34; alt=&#34;Neufchâtel on a wood surface with a wood utensil&#34; title=&#34;Woohoo, Neufchâtel | Attribution: Mumumío [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://tylerwengerd.s3-website-us-east-1.amazonaws.com/img/cheese/neuf.jpg&#34; alt=&#34;Neufchâtel on a wood surface with a wood utensil&#34; title=&#34;Woohoo, Neufchâtel | Attribution: Mumumío [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Neufchâtel is a &lt;strong&gt;grainy&lt;/strong&gt; cheese, but don&amp;rsquo;t worry about that. As it&amp;rsquo;s often sold in heart shapes, you&amp;rsquo;re almost certainly Neufchâtel if you sculpt your food into a heart before eating it.&lt;/p&gt;
 
 &lt;h2 id=&#34;5-paneer&#34;&gt;5. Paneer&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://example.org/img/cheese/paneer.jpg&#34; alt=&#34;Stacked Paneer&#34; title=&#34;Sweeeeet, Paneer | Attribution: By fugzu (Flickr: paneer) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://tylerwengerd.s3-website-us-east-1.amazonaws.com/img/cheese/paneer.jpg&#34; alt=&#34;Stacked Paneer&#34; title=&#34;Sweeeeet, Paneer | Attribution: By fugzu (Flickr: paneer) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Paneer is a &lt;strong&gt;chewy&lt;/strong&gt; cheese.
 &lt;em&gt;Ummmmmmmmmmmmmmm&lt;/em&gt;&lt;br /&gt;
