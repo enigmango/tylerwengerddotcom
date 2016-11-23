@@ -1,7 +1,8 @@
 deploy:
   image: python:alpine
   script:
-  - pip install awscli
-  - aws s3 cp ./public/ s3://$S3_BUCKET_NAME/ --recursive
+  echo "hello world"
+  #- pip install awscli
+  #- aws s3 cp ./public/ s3://$S3_BUCKET_NAME/ --recursive
   # only:
   # - master
