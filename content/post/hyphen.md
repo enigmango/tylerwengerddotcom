@@ -1,6 +1,6 @@
 +++
 date        = "2014-03-01"
-title       = "THE HYPHEN"
+title       = "The Hyphen"
 description = "The hyphen is serious business in the world of punctuation."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

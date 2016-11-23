@@ -1,6 +1,6 @@
 +++
 date        = "2014-07-01"
-title       = "THE CARET"
+title       = "The Caret"
 description = "The caret is a practically nonexistent being in the world of punctuation."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

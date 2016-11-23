@@ -1,6 +1,6 @@
 +++
 date        = "2014-01-01"
-title       = "THE ASTERISK"
+title       = "The Asterisk"
 description = "The asterisk is an elusive being in the world of punctuation."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

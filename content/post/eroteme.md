@@ -1,6 +1,6 @@
 +++
 date        = "2014-05-01"
-title       = "THE EROTEME"
+title       = "The Eroteme"
 description = "The question mark is a highly regarded being in the world of punctuation."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

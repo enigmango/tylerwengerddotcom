@@ -1,6 +1,6 @@
 +++
 date        = "2014-09-01"
-title       = "THE APOSTROPHE"
+title       = "The Apostrophe"
 description = "The apostrophe is a high-flying being in the world of punctuation."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

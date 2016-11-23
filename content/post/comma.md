@@ -1,6 +1,6 @@
 +++
 date        = "2015-01-04"
-title       = "THE COMMA"
+title       = "The Comma"
 description = "The comma is a ravenous mostly-deep-sea-but-sometimes-shallow-sea being in the world of punctuation."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

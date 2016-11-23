@@ -1,6 +1,6 @@
 +++
 date        = "2014-08-01"
-title       = "THE PERIOD"
+title       = "The Period"
 description = "The period is a roguish being in the world of punctuation."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

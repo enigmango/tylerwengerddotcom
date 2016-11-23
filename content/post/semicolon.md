@@ -1,6 +1,6 @@
 +++
 date        = "2014-06-01"
-title       = "THE SEMICOLON"
+title       = "The Semicolon"
 description = "The semicolon is a haunting being in the world of punctuation."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

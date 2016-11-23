@@ -1,6 +1,6 @@
 +++
 date        = "2014-04-01"
-title       = "THE BANG"
+title       = "The Bang"
 description = "The exclamation mark? I...whatever."
 tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]

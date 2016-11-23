@@ -1,6 +1,6 @@
 +++
 date        = "2015-03-11"
-title       = "CALLING ALL EAVESDROPPERS"
+title       = "Calling All Eavesdroppers"
 description = "\"I want someone to listen to our conversation.\" Who hasn't thought this?"
 +++
 

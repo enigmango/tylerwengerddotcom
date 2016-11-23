@@ -1,6 +1,6 @@
 +++
 date        = "2016-04-02"
-title       = "WHICH CHEESE ARE YOU?"
+title       = "Which Cheese Are You?"
 description = "Something's different."
 tags        = [ "prompted" ]
 topics      = [ "prompted" ]
