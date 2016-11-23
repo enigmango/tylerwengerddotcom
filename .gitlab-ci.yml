@@ -1,5 +1,5 @@
 deploy:
-  image: python:alpine
+  image: python:latest
   script:
   - echo "hello world"
   #- pip install awscli
