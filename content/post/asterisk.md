@@ -29,6 +29,6 @@ and people in med school simply DETESTED being associated in any way with those 
 
 \* 10²+ 11² + 12² = 13² + 14²
 
-<sub><em>This article is part of a series on **punctuation**. It's pretty much all made up.
+<sub><em>This article is part of a series on [**punctuation**](/tags/punctuation). It's pretty much all made up.
 Don't underestimate the prowess of a panther, though.
 You've been warned.</em></sub>

@@ -26,4 +26,4 @@ Because of all this work, putting on a sweater required a substantially fit core
 No one is sure how we got all these other names (except slak, that one's obvious, thanks Wojkowice), but well, here we are and it's so nice and warm, come on in. Have a cider or something and let's talk about the stars.
 
 
-<sub>*This article is part of a series on **punctuation**. It's pretty much all made up. Don't underestimate the prowess of a panther, though. You've been warned.*</sub>
+<sub>*This article is part of a series on [**punctuation**](/tags/punctuation). It's pretty much all made up. Don't underestimate the prowess of a panther, though. You've been warned.*</sub>

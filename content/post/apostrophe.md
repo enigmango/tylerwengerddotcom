@@ -14,4 +14,4 @@ Right. So the the apostrophe was created in the late 1800s, when seriously every
 
 It was named the apostrophe in honor of the rhetorical figure of speech, as millions (or perhaps several more) dreamed of the mark turning away from all other bits on the page, pressing against the invisible ceiling that paper imposes on all its subjects. Could the apostrophe someday triumphantly shatter everything on the page around it and soar past you and your hair, streaks of ink finally fusing with the dusty, sun-warmed air to create that just-burst-out-of-the-book smell while leaping and climbing ever higher? It could. It *totally* could. Be ready.
 
-<sub><em>This article is part of a series on **punctuation**. It's pretty much all made up. Don't underestimate the prowess of a panther, though. You've been warned.</em></sub>
+<sub><em>This article is part of a series on [**punctuation**](/tags/punctuation). It's pretty much all made up. Don't underestimate the prowess of a panther, though. You've been warned.</em></sub>

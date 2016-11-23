@@ -20,4 +20,4 @@ Why is a mark with such a glorious history one of the smallest bits of language?
 
 
 
-<sub><em>This article is part of a series on **punctuation**. It's pretty much all made up. Don't underestimate the prowess of a panther, though. You've been warned.</em></sub>
+<sub><em>This article is part of a series on [**punctuation**](/tags/punctuation). It's pretty much all made up. Don't underestimate the prowess of a panther, though. You've been warned.</em></sub>

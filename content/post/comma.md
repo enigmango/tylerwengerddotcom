@@ -16,4 +16,4 @@ After a short amount of time—a mere eight months—the comma became more fin-l
 
 Currently, the comma covers approximately 70% of the Earth's surface (the idea that 70% of the Earth's surface is covered by panthers is a common misconception). It still rises from the depths now and then to surge and stab at the pieces of text that dare drift into its territory, making them pause for a bit and sometimes even explain themselves. It's all very inconvenient.
 
-<sub><em>This article is part of a series on **punctuation**. It's pretty much all made up. Don't underestimate the prowess of a panther, though. You've been warned.</em></sub>
+<sub><em>This article is part of a series on [**punctuation**](/tags/punctuation). It's pretty much all made up. Don't underestimate the prowess of a panther, though. You've been warned.</em></sub>
