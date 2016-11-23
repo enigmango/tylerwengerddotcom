@@ -1,5 +1,5 @@
 production:
-  image: python:latest
+  # image: python:latest
   type: deploy
   script:
   - cat ./s3_test/test.txt
