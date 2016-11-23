@@ -12,10 +12,10 @@ My name's Tyler! Thanks for visiting.
 
 I currently live in Cincinnati, where small lizards rule with tiny iron fists. I love a good breakfast/crossword combo.
 
-* Reading: [Sun in a Bottle](http://amzn.com/0143116347 )
+* Reading: The Phoenix project
 * Listening: Various folksy stuff at the moment
-* Watching: Veep
-* Playing: [FTL](https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light)
+* Watching: TNG
+* Playing: Hitman
 * And [here's a random Wikipedia page](http://en.wikipedia.org/wiki/Special:Random).
 
 ## Professional
@@ -29,13 +29,10 @@ I have a degree in computer engineering from the University of Akron, and I work
 * [Google+](https://plus.google.com/+TylerWengerd/)
 * [LinkedIn](http://lnkd.in/MrXnKs)
 * [Twitter](https://twitter.com/enigmango)
-* [GitHub](https://github.com/enigmango)
 
 ## Technical
 
-This site uses [Ghost](http://www.ghost.org/) and is hosted on [DigitalOcean](https://www.digitalocean.com/). The full source code for the site can be found [in this GitHub repo](https://github.com/enigmango/tyost).
-
-Hopefully this is the last big site change for a while - I've been going back and forth a lot behind the scenes without really publishing anything new.
+This site is built with [Hugo](https://gohugo.io/). The full source code can be found [in this repo](https://gitlab.com/tywe/tylerwengerddotcom).
 
 ## What does "GmbH" mean?
 
