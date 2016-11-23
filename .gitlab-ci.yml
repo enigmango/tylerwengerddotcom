@@ -1,8 +1,14 @@
+variables:
+  HUGO_DOWNLOAD: http://ftp.us.debian.org/debian/pool/main/h/hugo/hugo_0.16-2_amd64.deb
+
 production:
   image: python:latest
   type: deploy
   script:
     - pip install awscli
+    - wget -O /tmp/hugo.deb $HUGO_DOWNLOAD
+    - dpkg -i /tmp/hugo.deb
+    - hugo -s $CI_PROJECT_DIR
     - aws s3 cp $CI_PROJECT_DIR/public/ s3://$S3_BUCKET_NAME/ --recursive
   tags:
     - shared
