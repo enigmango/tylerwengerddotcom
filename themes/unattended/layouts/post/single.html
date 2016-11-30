@@ -7,6 +7,14 @@
     <main class="content" role="main">
 	    <article class="post">
 	        <header>
+          <div class="post-meta"><time datetime="{{ .Date.Format "Monday, January 02, 2006" }}">{{ .Date.Format "Monday, January 02, 2006" }}</time></div>
+          <h1 class="post-title">{{ .Title }}</h1>
+	        </header>
+
+	        <section class="post-content">
+	            {{ .Content }}
+	        </section>
+
           <section class="post-tags">
               <div class="post-meta tags">
               Posted in:
@@ -15,15 +23,6 @@
               {{ end }}
               </div>
           </section>
-	        <h1 class="post-title">{{ .Title }}</h1>
-	        <div class="post-meta"><time datetime="{{ .Date.Format "Monday, January 02, 2006" }}">{{ .Date.Format "Monday, January 02, 2006" }}</time></div>
-	        </header>
-
-
-
-	        <section class="post-content">
-	            {{ .Content }}
-	        </section>
 
 			{{ if eq .Site.Params.comments "disqus" }}
 	        	{{ template "_internal/disqus.html" . }}
