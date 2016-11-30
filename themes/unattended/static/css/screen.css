@@ -114,7 +114,7 @@ a.archive-link,
   max-width: 100%;
 }
 article.preview {
-  margin-bottom: 4em;
+  margin-bottom: 3.4em;
 }
 article.preview p.readmore {
   font-family: "Crushed", Arial, sans-serif;
@@ -239,8 +239,8 @@ blockquote {
   font-family: "Crushed", Arial, sans-serif;
   font-size: 20px;
   font-weight: 300;
-  margin-top: 0.25em;
-  margin-bottom: 1.2em;
+  margin-top: 1.2em;
+  margin-bottom: 0.25em;
   text-transform: uppercase;
 }
 .tags {
