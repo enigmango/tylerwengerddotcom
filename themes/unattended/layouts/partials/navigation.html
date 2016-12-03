@@ -5,14 +5,14 @@
         <a href="{{ .Site.BaseURL }}">Home</a>
       </li>
       <li>•</li>
-      <li class="nav nav-current">
-        <a href="{{ .Site.BaseURL }}prompt.html">Prompt</a>
-      </li>
-      <li>•</li>
       {{ range .Site.Menus.main }}
       	<li class="nav nav-current"><a href="{{ .URL }}">{{ .Name }}</a></li>
         <li>•</li>
     	{{end}}
+      <li class="nav nav-current">
+        <a href="https://tywe.typeform.com/to/BdGRGe">Prompt</a>
+      </li>
+      <li>•</li>
       <li class="nav nav-current">
         <a href="{{ .RSSLink }}" target="_blank" title="RSS"><i class="fa fa-fw fa-rss"></i> <span class="hidden">RSS</span></a>
       </li>
