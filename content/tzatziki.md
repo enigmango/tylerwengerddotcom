@@ -23,19 +23,30 @@ Anywhere from 1 to 3 hours, depending on how long you're okay with letting the p
 
 ## Ingredients
 
-* 1 1/4 lbs pork loin, cut into 3-by-1/2-inch strips
-* 1 large onion, cut into half-inch wedges
+* 1 1/4 lbs pork loin
+* 1 large onion,
 * 1/4 cup plus 2 TBL extra-virgin olive oil
-* 3 lemons, juiced (optional: 1 lemon cut to wedges for garnish)
+* 3 lemons, plus any extras for garnish
 * 2TSP dried oregano
-* 3 garlic cloves, divided and mashed to a paste
+* 3 garlic cloves (or equivalent paste)
 * Kosher salt and freshly ground pepper
 * 1 cup Greek whole-milk yogurt
-* 1/2 English/Seedless cucumber, seeded and finely diced
-* 2TBL mint, chopped
+* 1/2 English/Seedless cucumber
+* 2TBL mint
 * Warm pita, for serving
 
-## Preparation
+## Slicing and dicing
+
+1. Cut the pork loin into half-inch strips, about 3 inches long.
+2. Cut the onion into half-inch wedges.
+3. Juice the lemons (and cut wedges for garnish if extra)
+4. Mash the garlic cloves into a paste (divide into 2/3 and 1/3)
+5. Seed and finely dice cucumber
+  * You can do this later (while things marinate)
+6. Chop the mint
+  * You can do this later (while things marinate)
+
+## Let's go
 
 1. In a medium bowl, toss the following:
   * Pork strips
@@ -43,8 +54,8 @@ Anywhere from 1 to 3 hours, depending on how long you're okay with letting the p
   * Olive oil
   * Lemon juice
   * Oregano
-  * Garlic paste from 2 of the cloves
-2. Season with 1 1/2 teaspoons of salt and 1/2 teaspoon pepper and let stand in fridge for at least 30 minutes (preferably up to 2 hours).
+  * 2/3 of the garlic paste
+2. Season the pork bowl with 1 1/2 teaspoons of salt and 1/2 teaspoon pepper and let stand in fridge for at least 30 minutes (preferably up to 2 hours).
 3. Meanwhile, in a bowl, make the tzatziki by mixing the following:
   * Yogurt
   * Cucumber
@@ -52,6 +63,6 @@ Anywhere from 1 to 3 hours, depending on how long you're okay with letting the p
   * Remaining garlic paste
 4. Season the tzatziki with salt and pepper.
 5. A few minutes before you take the pork bowl out of the fridge, heat a large cast-iron frying pan until it is very hot.
-6. Cook pork and onion wedges along with any leftover marinade over high heat, turning once or twice, until the pork and onions are tender and caramelized.
+6. Cook pork, onion wedges, and marinade in pan over high heat, turning once or twice, until the pork and onions are tender and caramelized.
   * (About 12 minutes)
 7. Transfer the pork and onion to plates and serve with the tzatziki, lemon wedges and pita.
