@@ -3,9 +3,9 @@ date = "2016-12-04"
 title = "Pork Souvlaki with Tzatziki"
 +++
 
-# Pork Souvlaki with Tzatziki
-
-Archive of original [here](https://web.archive.org/web/20120716021434/http://ceramiccanvas.com/2009/09/pork-souvlaki-with-tzatziki/).
+## What's this?
+A favorite recipe of mine.  
+Archive of original is [here](https://web.archive.org/web/20120716021434/http://ceramiccanvas.com/2009/09/pork-souvlaki-with-tzatziki/).
 
 ## Servings
 
@@ -16,7 +16,7 @@ About 4
 Anywhere from 1 to 3 hours, depending on how long you're okay with letting the pork marinate.
 
 | **Whatcha doin'**   | **How long is it gonna take**     |
-|---------------------|-----------------------------------|
+|:-------------------:|:---------------------------------:|
 | Slicin' and dicin'  | 20 minutes                        |
 | Marinatin' the pork | 30 minutes to 2 hours (up to you) |
 | Cookin'             | 15 minutes                        |
