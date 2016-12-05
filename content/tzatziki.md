@@ -15,7 +15,7 @@ About 4
 
 Anywhere from 1 to 3 hours, depending on how long you're okay with letting the pork marinate.
 
-| Whatcha doin'       | How long is it gonna take         |
+| **Whatcha doin'**   | **How long is it gonna take**     |
 |---------------------|-----------------------------------|
 | Slicin' and dicin'  | 20 minutes                        |
 | Marinatin' the pork | 30 minutes to 2 hours (up to you) |
@@ -37,7 +37,13 @@ Anywhere from 1 to 3 hours, depending on how long you're okay with letting the p
 
 ## Preparation
 
-1. In a medium bowl, toss the pork strips and onion wedges with olive oil, lemon juice, oregano and garlic paste from two of the garlic cloves.
+1. In a medium bowl, toss the following:
+  * Pork strips
+  * Onion wedges
+  * Olive oil
+  * Lemon juice
+  * Oregano
+  * Garlic paste from 2 of the cloves
 2. Season with 1 1/2 teaspoons of salt and 1/2 teaspoon pepper and let stand in fridge for at least 30 minutes (preferably up to 2 hours).
 3. Meanwhile, in a bowl, make the tzatziki by mixing the following:
   * Yogurt
