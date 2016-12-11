@@ -1,5 +1,5 @@
 +++
-date        = "2016-12-09"
+date        = "2016-12-10"
 title       = "Windows vs. Linux: The Facts"
 description = "A totally accurate comparison of two Very Modern operating systems"
 tags        = [ "reviews" ]
