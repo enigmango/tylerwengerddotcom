@@ -3,6 +3,8 @@ production:
   type: deploy
   script:
     - pip install awscli
+    - deb http://ftp.debian.org/debian jessie main
+    - apt update
     - apt install hugo
     - hugo -s $CI_PROJECT_DIR
     - aws s3 cp $CI_PROJECT_DIR/public/ s3://$S3_BUCKET_NAME/ --recursive
