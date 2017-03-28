@@ -22,9 +22,9 @@ to do is write some markdown. Nice.
 
 ## Layout
 * `content/`: Post content stored in markdown/TOML format.
-  * Content in this directory is under the
-  [Creative Commons BY-NC-SA 4.0] license.
-  (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  * Content in this directory is under the 
+  [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  license.
 * `static/`: Images, favicons, et cetera. Basically any non-text content needed
 by the site.
 * `themes/`: Hugo theme configuration.
