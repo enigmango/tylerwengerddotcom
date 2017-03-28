@@ -3,7 +3,7 @@ production:
   type: deploy
   script:
     - pip install awscli
-    - echo "deb http://ftp.debian.org/debian jessie main" >> /etc/apt/sources.list
+    - echo "deb http://ftp.debian.org/debian stretch main" >> /etc/apt/sources.list
     - apt update
     - apt install hugo
     - hugo -s $CI_PROJECT_DIR
