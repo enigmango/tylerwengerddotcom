@@ -6,8 +6,6 @@ tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]
 +++
 
-# The Pilcrow
-
 The pilcrow is a stylin' being in the world of punctuation.¶
 
 The pilcrow goes to herring parties. The pilcrow orders Campari at bars and slicks its hair back with the finest water-based pomade. Like that tornado you used to doodle, the one with the wrinkly eyes, daring nose, and slicked-back hair. Your tornado doesn't order Campari at bars, though. Ol' Tornie the Tornado hasn't even been to a herring party, which is where the pilcrow had its first Campari. The pilcrow has, of course, been to DOZENS of herring parties, but the one with the Campari was its favorite.¶
