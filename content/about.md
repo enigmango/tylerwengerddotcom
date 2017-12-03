@@ -32,7 +32,16 @@ I have a degree in computer engineering from the University of Akron, and I work
 
 ## Technical
 
-This site is built with [Hugo](https://gohugo.io/). The full source code can be found [in this repo](https://gitlab.com/tywe/tylerwengerddotcom).
+This site is built with [Hugo](https://gohugo.io/) and Gitlab CI, and hosted on AWS. The full source code can be found [in this repo](https://gitlab.com/tywe/tylerwengerddotcom).
+
+## Other projects
+
+I recently built a silly project that transposes the first letters
+(like a [Spoonerism](https://en.wikipedia.org/wiki/Spoonerism)) of random Wikipedia titles.
+You can [generate your own here](http://wikibot.wengerd.org) or
+check out the [Twitter bot that shouts random results into the void](https://twitter.com/wiki_transposed).
+
+
 
 ## What does "GmbH" mean?
 
