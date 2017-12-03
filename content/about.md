@@ -24,11 +24,7 @@ I have a degree in computer engineering from the University of Akron, and I work
 
 ## Contact
 
-* <a href="mailto:&#104;&#105;&#064;&#116;&#121;&#108;&#101;&#114;&#119;&#101;&#110;&#103;&#101;&#114;&#100;&#046;&#099;&#111;&#109;">Email</a>
-* [Facebook](https://www.facebook.com/tyler.wengerd)
-* [Google+](https://plus.google.com/+TylerWengerd/)
-* [LinkedIn](http://lnkd.in/MrXnKs)
-* [Twitter](https://twitter.com/enigmango)
+If you've found this website, then you're a capable person (also probably very smart and funny) and I'm sure you can find me on the standard social media sites.
 
 ## Technical
 
