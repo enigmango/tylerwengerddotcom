@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/enigmango
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.tylerwengerd.com
+  * I am enigmango (https://keybase.io/enigmango) on keybase.
+  * I have a public key ASDEeKj-3ElPK65fhwOnl1cSXywIfrz_FD76coVVN03YyAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c478a8fedc494f2bae5f8703a79757125f2c087ebcff143efa728555374dd8c80a",
+      "host": "keybase.io",
+      "kid": "0120c478a8fedc494f2bae5f8703a79757125f2c087ebcff143efa728555374dd8c80a",
+      "uid": "a30cc9630c6f7dae08b68a4bf30ae519",
+      "username": "enigmango"
+    },
+    "merkle_root": {
+      "ctime": 1522675329,
+      "hash": "a229e4440fe902afe73ed638718320431ddbd3fc3c3470e68dbb3e85edcb1ef27e5f49188b3c8b8978924431de5fb8005f373b22a26f71ab0c519f8eb05cf695",
+      "hash_meta": "79c877accd695530878023224b2148688c853c37369786a603d47a2cd9949ad3",
+      "seqno": 2322353
+    },
+    "service": {
+      "hostname": "www.tylerwengerd.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522675360,
+  "expire_in": 504576000,
+  "prev": "e16b8dde88a72193ec6f8af203d5a736984f197e2a5e6b1479c9eb588c853395",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxHio/txJTyuuX4cDp5dXEl8sCH68/xQ++nKFVTdN2MgKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzQ3OGE4ZmVkYzQ5NGYyYmFlNWY4NzAzYTc5NzU3MTI1ZjJjMDg3ZWJjZmYxNDNlZmE3Mjg1NTUzNzRkZDhjODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzQ3OGE4ZmVkYzQ5NGYyYmFlNWY4NzAzYTc5NzU3MTI1ZjJjMDg3ZWJjZmYxNDNlZmE3Mjg1NTUzNzRkZDhjODBhIiwidWlkIjoiYTMwY2M5NjMwYzZmN2RhZTA4YjY4YTRiZjMwYWU1MTkiLCJ1c2VybmFtZSI6ImVuaWdtYW5nbyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMjY3NTMyOSwiaGFzaCI6ImEyMjllNDQ0MGZlOTAyYWZlNzNlZDYzODcxODMyMDQzMWRkYmQzZmMzYzM0NzBlNjhkYmIzZTg1ZWRjYjFlZjI3ZTVmNDkxODhiM2M4Yjg5Nzg5MjQ0MzFkZTVmYjgwMDVmMzczYjIyYTI2ZjcxYWIwYzUxOWY4ZWIwNWNmNjk1IiwiaGFzaF9tZXRhIjoiNzljODc3YWNjZDY5NTUzMDg3ODAyMzIyNGIyMTQ4Njg4Yzg1M2MzNzM2OTc4NmE2MDNkNDdhMmNkOTk0OWFkMyIsInNlcW5vIjoyMzIyMzUzfSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy50eWxlcndlbmdlcmQuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjI2NzUzNjAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZTE2YjhkZGU4OGE3MjE5M2VjNmY4YWYyMDNkNWE3MzY5ODRmMTk3ZTJhNWU2YjE0NzljOWViNTg4Yzg1MzM5NSIsInNlcW5vIjo2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMrNq9HGTJD6p1CcgtsHa15cfYC7NcSVXrmzXxmWxweqQzVuDQk6NN8gomnVt/dj55sn9p/SZInmkzLxGzZ9/gCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAIgeQjwzwnqSWImGTN35zae1F2Tnb4Al2t7Qz5eGWl/qN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/enigmango
+
+==================================================================
