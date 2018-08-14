@@ -22,7 +22,7 @@ Dough should rest for 30 minutes. The most time-consuming part by far could be
 the folding of the dumplings, but that totally depends on how small you make them.
 
 | **Whatcha doin'**   | **How long is it gonna take**                  |
-|---------------------|------------------------------------------------|
+|:--------------------|:-----------------------------------------------|
 | Makin' dough        | 20 minutes                                     |
 | Makin' filling      | 10 minutes                                     |
 | Makin' sauces       | 10-20 minutes (while manti is boiling)         |
@@ -50,7 +50,7 @@ the folding of the dumplings, but that totally depends on how small you make the
 
 ### Dough
 | **What is it**            | **How much**   |
-|---------------------------|----------------|
+|:--------------------------|:---------------|
 | Flour                     | 2 cups         |
 | Egg                       | 1 egg          |
 | Olive oil                 | 2 tablespoons  |
@@ -59,7 +59,7 @@ the folding of the dumplings, but that totally depends on how small you make the
 
 ### Filling
 | **What is it**            | **How much**   |
-|---------------------------|----------------|
+|:--------------------------|:---------------|
 | Ground beef/lamb/mix      | 1/2 pound      |
 | Small onion               | 1 small onion! |
 | Parsley                   | 4 tablespoons  |
@@ -67,14 +67,14 @@ the folding of the dumplings, but that totally depends on how small you make the
 
 ### Yogurt sauce
 | **What is it**            | **How much**                  |
-|---------------------------|-------------------------------|
+|:--------------------------|:------------------------------|
 | Greek yogurt              | About 2 cups (half a big tub) |
 | Garlic                    | 2 cloves                      |
 | Salt                      | 1/2 teaspoon                  |
 
 ### Tomato sauce
 | **What is it**            | **How much**           |
-|---------------------------|------------------------|
+|:--------------------------|:-----------------------|
 | Tomato paste              | 1 6oz can              |
 | Olive oil                 | 4 tablespoons          |
 | Water                     | 1 cup                  |
@@ -83,14 +83,14 @@ the folding of the dumplings, but that totally depends on how small you make the
 
 ### Butter sauce
 | **What is it**            | **How much**           |
-|---------------------------|------------------------|
+|:--------------------------|:-----------------------|
 | Butter (unsalted)         | 3 tablespoons          |
 | Olive oil                 | 3 tablespoons          |
 | Salt                      | To taste               |
 
 ### Topping
 | **What is it**  | **How much**                      |
-|-----------------|-----------------------------------|
+|:----------------|:----------------------------------|
 | Lemon           | 1, for zest                       |
 | Mint            | 1 pack (a big handful, let's say) |
 
