@@ -12,15 +12,15 @@ My name's Tyler! Thanks for visiting.
 
 I currently live in Cincinnati, where small lizards rule with tiny iron fists. I love a good breakfast/crossword combo.
 
-* Reading: The Phoenix project
-* Listening: Various folksy stuff at the moment
-* Watching: TNG
-* Playing: Hitman
+* Reading: The Unnoticeables
+* Listening: Any playlists good for unpacking
+* Watching: Murdoch Mysteries
+* Playing: (Yup, still) Hitman
 * And [here's a random Wikipedia page](http://en.wikipedia.org/wiki/Special:Random).
 
 ## Professional
 
-I have a degree in computer engineering from the University of Akron, and I work for [Cloudreach](https://www.glassdoor.com/Overview/Working-at-Cloudreach-EI_IE439504.11,21.htm) as a Cloud Systems Engineer.
+I have a degree in computer engineering from the University of Akron, and I work for [Cloudreach](https://www.glassdoor.com/Overview/Working-at-Cloudreach-EI_IE439504.11,21.htm) as a Cloud Systems Developer Lead.
 
 ## Contact
 
@@ -37,7 +37,7 @@ I recently built a silly project that transposes the first letters
 You can [generate your own here](http://wikibot.wengerd.org) or
 check out the [Twitter bot that shouts random results into the void](https://twitter.com/wiki_transposed).
 
-
+I also wrote a [Twitter bot that posts only the parentheticals from the 45th president's Twitter account](https://www.twitter.com/potus_in_parens).
 
 ## What does "GmbH" mean?
 
