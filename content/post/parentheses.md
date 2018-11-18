@@ -6,7 +6,7 @@ tags        = [ "punctuation" ]
 topics      = [ "punctuation" ]
 +++
 
-Parentheses are glorious beings in the world of punctuation. See one parenthesis, and you've seen 'em all? Hardly. (This is because you have to see at least one more.)
+Parentheses are mercurial beings in the world of punctuation. See one parenthesis, and you've seen 'em all? Hardly. (This is because you have to see at least one more.)
 
 How did they start, you find yourself asking. The same way anything starts, you find yourself answering: with a grand chorus of strings and a harmony of deep breaths (plus a wave of tiny click-clacks echoing from somewhere in the back). Next question!
 
