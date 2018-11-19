@@ -1,12 +1,14 @@
+variables:
+  HUGO_VERSION: "0.51"
+
 production:
   image: python:latest
-  type: deploy
   script:
     - pip install awscli
-    - echo "deb http://deb.debian.org/debian stretch main" >> /etc/apt/sources.list
-    - echo "deb http://deb.debian.org/debian stretch-updates main" >> /etc/apt/sources.list
-    - apt update
-    - apt install hugo
+    - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+    - tar xvzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+    - cp hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 /usr/bin/hugo
+    - rm -rf hugo_${HUGO_VERSION}_linux_amd64*
     - hugo -s $CI_PROJECT_DIR
     - aws s3 cp $CI_PROJECT_DIR/public/ s3://$S3_BUCKET_NAME/ --recursive
   tags:
