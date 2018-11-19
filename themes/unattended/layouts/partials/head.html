@@ -6,11 +6,22 @@
 
     <title>{{ .Title }}</title>
     <meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
-    <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
+    <meta name="description" content="{{ .Description }}">
     {{ .Hugo.Generator }}
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+    <meta name="twitter:creator" content="{{ .Site.Params.twitter }}">
+    <meta name="twitter:description" content="{{ .Description }}" />
+    <meta name="twitter:title" content="{{ .Title }}" />
+    <meta name="twitter:card" content="summary" />
+    {{ if .Params.image }}
+    <meta name="twitter:image" content="{{ .Params.image }}" /> {{ else }}
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}img/author-image.png" />
+    {{ end }}
+    
 
     {{ "<!-- RSS autodiscovery -->" | safeHTML }}
     {{ if .RSSLink }}
