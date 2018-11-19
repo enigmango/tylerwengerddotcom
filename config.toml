@@ -20,7 +20,7 @@ paginate = 7
 	bio = "You put that attitude away right now"
 	description = "I write fiction about punctuation and other things."
 	location = "" # optional
-	twitter = "" # optional
+	twitter = "@enigmango" # optional
 	github = "" # optional
  	gitlab = "" # optional
 
